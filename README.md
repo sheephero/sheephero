@@ -1,13 +1,15 @@
 ## ⏱ 최근 코딩 활동 (WakaTime 기준)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 118 Bytes Used in GitHub's Storage 
+> 📦 119 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 6 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,5 +78,5 @@ Kotlin                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/sheephero/sheephero/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2025 18:54:49 UTC
+ Last Updated on 06/06/2025 18:46:34 UTC
 <!--END_SECTION:waka-->
