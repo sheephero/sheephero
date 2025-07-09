@@ -7,7 +7,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 135 Bytes Used in GitHub's Storage 
+> 📦 136 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 6 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,18 +44,16 @@ Sunday                   2 commits           ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Kotlin                   0 secs              ████████████████████████░   95.44 % 
-XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-testhero                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -69,5 +69,5 @@ Kotlin                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/sheephero/sheephero/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2025 18:48:21 UTC
+ Last Updated on 09/07/2025 18:48:49 UTC
 <!--END_SECTION:waka-->
