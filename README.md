@@ -9,8 +9,6 @@
 
 > 📦 138 Bytes Used in GitHub's Storage 
  > 
-> 🏆 6 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -69,5 +67,5 @@ Kotlin                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/sheephero/sheephero/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2025 18:51:51 UTC
+ Last Updated on 15/07/2025 18:50:59 UTC
 <!--END_SECTION:waka-->
