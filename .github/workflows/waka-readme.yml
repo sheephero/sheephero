@@ -31,3 +31,7 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_UPDATED_DATE: "True"
+          # "This Week I Spent My Time On"(언어·에디터)와 "AI Coding This Week" 섹션 제거
+          SHOW_LANGUAGE: "False"
+          SHOW_EDITORS: "False"
+          SHOW_AI_CODING: "False"
