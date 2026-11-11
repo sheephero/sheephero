@@ -33,35 +33,47 @@
 ## ⏱ 코딩 시간 (WakaTime)
 
 <!--START_SECTION:waka-->
-- ⏱ 오늘 코딩 시간(WakaTime): **39 mins**  <sub>(2026-11-11 기준)</sub>
+![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2043%20mins-blue?style=flat)
 
-**I'm a Daytime Coder ☀️** <sub>(내 커밋 14개 기준)</sub>
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2026%20mins-blue?style=flat)
 
-```text
-🌞 Morning (06–12)        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
-🌆 Daytime (12–18)       10 commits   ██████████████████░░░░░░░   71.4 %
-🌃 Evening (18–24)        4 commits   ███████░░░░░░░░░░░░░░░░░░   28.6 %
-🌙 Night (00–06)          0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
-```
-
-📅 **I'm Most Productive on Sunday**
+**I'm an Early 🐤** 
 
 ```text
-Monday       4 commits   ███████░░░░░░░░░░░░░░░░░░   28.6 %
-Tuesday      1 commits   ██░░░░░░░░░░░░░░░░░░░░░░░    7.1 %
-Wednesday    3 commits   █████░░░░░░░░░░░░░░░░░░░░   21.4 %
-Thursday     0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
-Friday       0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
-Saturday     0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0 %
-Sunday       6 commits   ███████████░░░░░░░░░░░░░░   42.9 %
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                19 commits          ████████████████████░░░░░   79.17 % 
+🌃 Evening                5 commits           █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
-
-**💬 Languages** <sub>(내가 커밋한 저장소의 코드 비율)</sub>
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Python        █████████████████████████   99.2 %
-Kotlin        ░░░░░░░░░░░░░░░░░░░░░░░░░    0.8 %
+Monday                   4 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Tuesday                  9 commits           █████████░░░░░░░░░░░░░░░░   37.50 % 
+Wednesday                5 commits           █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   6 commits           ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 
-<sub>마지막 갱신: 2026-11-11 · 비공개 저장소는 이름 없이 합계만 반영</sub>
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 11/11/2026 10:53:23 UTC
 <!--END_SECTION:waka-->
