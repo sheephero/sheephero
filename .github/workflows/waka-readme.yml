@@ -17,5 +17,12 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # 코딩 시간·커밋 시간대·요일·언어·에디터만 남기고, 겹치거나 무거운 섹션은 끔
           SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
+          SHOW_PROJECTS: "False"          # 비공개 프로젝트명 노출 방지
+          SHOW_TIMEZONE: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"  # 위쪽 GitHub 언어 카드와 중복
+          SHOW_LOC_CHART: "False"          # 실행 시간이 오래 걸리는 차트
+          SHOW_SHORT_INFO: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_UPDATED_DATE: "True"
