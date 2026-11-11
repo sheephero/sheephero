@@ -1,19 +1,38 @@
+<div align="center">
+
 # 안녕하세요, sheephero입니다 👋
+
+<a href="https://github.com/sheephero">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Data+Analysis+%26+Machine+Learning;App+%26+Web+Development;Learning+by+building" alt="Typing SVG" />
+</a>
 
 데이터 분석과 머신러닝, 앱·웹 개발을 공부하며 직접 만들어 보고 있습니다.
 
+</div>
+
 ## 🛠 기술 스택
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52B2?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,kotlin,js,git&theme=dark" alt="Tech stack" />
+</p>
 
 ## 🔭 요즘 하는 일
 - 실제 데이터를 수집·정제해 가격을 예측하는 머신러닝 프로젝트를 단계별로 기록하며 진행 중
 
-<!--START_SECTION:activity-->
-## 📊 개발 활동
+## 📈 GitHub 통계
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sheephero&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheephero&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sheephero&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+</p>
+
+## ⏱ 코딩 시간 (WakaTime)
+
+<!--START_SECTION:waka-->
 - ⏱ 오늘 코딩 시간(WakaTime): **39 mins**  <sub>(2026-11-11 기준)</sub>
 
 **I'm a Daytime Coder ☀️** <sub>(내 커밋 14개 기준)</sub>
@@ -45,4 +64,4 @@ Kotlin        ░░░░░░░░░░░░░░░░░░░░░░
 ```
 
 <sub>마지막 갱신: 2026-11-11 · 비공개 저장소는 이름 없이 합계만 반영</sub>
-<!--END_SECTION:activity-->
+<!--END_SECTION:waka-->
