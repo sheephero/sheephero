@@ -1,0 +1,30 @@
+name: Profile Summary Cards
+
+on:
+  schedule:
+    - cron: '30 19 * * *' # 매일 04:30 KST (UTC 19:30) — WakaTime 워크플로(03:30 KST)와 1시간 간격
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# README를 고치는 봇 워크플로끼리 동시에 push하지 않도록 한 줄로 세움
+concurrency:
+  group: profile-readme-update
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Generate GitHub profile summary cards
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 9
+          AUTO_PUSH: true
+          THEME: "tokyonight" # 비우면 16개 테마를 전부 만들어 저장소가 지저분해져서 하나만 생성
