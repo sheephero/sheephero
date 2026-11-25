@@ -33,31 +33,31 @@
 ## ⏱ 코딩 시간 (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2030%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-🌆 Daytime                21 commits          ██████████████████░░░░░░░   72.41 % 
-🌃 Evening                6 commits           █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+🌆 Daytime                22 commits          █████████████████░░░░░░░░   66.67 % 
+🌃 Evening                6 commits           █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+🌙 Night                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Tuesday                  11 commits          █████████░░░░░░░░░░░░░░░░   37.93 % 
-Wednesday                7 commits           ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+Monday                   4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Tuesday                  13 commits          ██████████░░░░░░░░░░░░░░░   39.39 % 
+Wednesday                8 commits           ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
 Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Sunday                   6 commits           █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Saturday                 2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Sunday                   6 commits           █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
 ```
 
 
 
- Last Updated on 24/11/2026 04:00:35 UTC
+ Last Updated on 25/11/2026 02:41:06 UTC
 <!--END_SECTION:waka-->
