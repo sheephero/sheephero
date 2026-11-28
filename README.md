@@ -33,9 +33,9 @@
 ## ⏱ 코딩 시간 (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2029%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -59,5 +59,5 @@ Sunday                   6 commits           █████░░░░░░�
 
 
 
- Last Updated on 27/11/2026 01:51:56 UTC
+ Last Updated on 28/11/2026 01:33:57 UTC
 <!--END_SECTION:waka-->
